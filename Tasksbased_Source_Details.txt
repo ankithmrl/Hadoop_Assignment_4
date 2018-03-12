@@ -1,0 +1,3 @@
+Hadoop_Assignment_4/src/SalesDetails  --> Task1 (Filters Records).
+Hadoop_Assignment_4/src/CompanyCount  --> Task2 (Count of Country).
+Hadoop_Assignment_4/src/StateCount  --> Task3 (Count of States for Onida TVs).
